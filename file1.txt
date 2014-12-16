@@ -1,0 +1,1 @@
+This is the ORIGINAL content of file1.txt on branch master.
