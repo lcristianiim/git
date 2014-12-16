@@ -1,1 +1,2 @@
 This is the ORIGINAL content of file1.txt on branch master.
+This is the second line of file1.txt on branch master.
