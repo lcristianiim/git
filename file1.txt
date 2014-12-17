@@ -2,3 +2,4 @@ This is the ORIGINAL content of file1.txt on branch master.
 This is the second line of file1.txt on branch master.
 This line is created in test branch.
 This line is a modification of the file on master branch.
+Last modification.
